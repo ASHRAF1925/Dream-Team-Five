@@ -4,7 +4,8 @@
 
 }
 
-.messi {
-    width: auto;
-    height: auto;
+.imge_sizer {
+    width: 100%;
+    height: 100%;
+    transform: scale(1.5);
 }
