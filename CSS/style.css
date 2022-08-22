@@ -20,3 +20,18 @@ button[disabled] {
 .lion {
     transform: rotate(15deg);
 }
+
+#Total_cost {
+    color: red;
+}
+
+#header_text {
+    font-family: 'Berkshire Swash', cursive;
+    font-family: 'Ibarra Real Nova', serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 76px;
+    line-height: 94px;
+    text-align: center;
+    text-transform: capitalize;
+}
